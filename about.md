@@ -9,4 +9,4 @@ Hi! My name is Hannah Fell and I am the associate editor at Chiropractic Economi
 I am proficient in writing, editing, copyediting, proofreading, interviewing, managing writers, website content management, SEO content writing, video editing, and podcast development.
 In my free time I enjoy reading, writing, running, and playing with goats.
 
-This is just an example. I stole this from your LinkedIn and Twitter. We can work on this!
+(Stolen from your LinkedIn)
