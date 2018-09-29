@@ -45,7 +45,7 @@
   {
     "title": "About",
     "excerpt": "\n",
-    "content": "Hi! My name is Hannah Fell and I am the associate editor at Chiropractic Economics and MASSAGE Magazine in Ponte Vedra Beach, Florida.\nI am proficient in writing, editing, copyediting, proofreading, interviewing, managing writers, website content management, SEO content writing, video editing, and podcast development.\nIn my free time I enjoy reading, writing, running, and playing with goats.\n\nThis is just an example. I stole this from your LinkedIn and Twitter. We can work on this!\n",
+    "content": "Hi! My name is Hannah Fell and I am the associate editor at Chiropractic Economics and MASSAGE Magazine in Ponte Vedra Beach, Florida.\nI am proficient in writing, editing, copyediting, proofreading, interviewing, managing writers, website content management, SEO content writing, video editing, and podcast development.\nIn my free time I enjoy reading, writing, running, and playing with goats.\n\n(Stolen from your LinkedIn)\n",
     "url": "/about/"
   },
   
@@ -57,7 +57,7 @@
   },
   
   {
-    "title": "Hannah's Blog",
+    "title": "Blog",
     "excerpt": "\n",
     "content": "\n\n\n\n    {% for post in paginator.posts %}\n        \n          {{ post.title | escape }}\n        \n        {{ post.date | date: \"%b %-d, %Y\" }}\n    {% endfor %}\n  \n  \n  {% if paginator.total_pages &gt; 1 %}\n  \n      {% if paginator.previous_page %}\n      \n          &larr; Newer Posts\n      \n      {% endif %}\n      {% if paginator.next_page %}\n      \n          Older Posts &rarr;\n      \n      {% endif %}\n  \n  {% endif %}\n\n",
     "url": "/blog/index.html"
