@@ -438,21 +438,21 @@ body {
       font-size: 1.1578947368rem; } }
 
 a {
-  color: #05bf85;
+  color: #6cc2d1;
   text-decoration: none;
   transition: color .1s, background-color .1s; }
   a:hover, a:active, a:focus {
-    color: #008000;
+    color: #00869e;
     text-decoration: none; }
 
 .typeset p a, .typeset li a {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #05bf85 50%);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #6cc2d1 50%);
   background-position: 0 93%;
   background-repeat: repeat-x;
   background-size: 100% 0.15rem;
   text-shadow: 0.1rem 0 #ffffff, 0.15rem 0 #ffffff, -0.1rem 0 #ffffff, -0.15rem 0 #ffffff; }
   .typeset p a:hover, .typeset p a:active, .typeset p a:focus, .typeset li a:hover, .typeset li a:active, .typeset li a:focus {
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #008000 50%); }
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #00869e 50%); }
 .typeset p {
   line-height: 2rem;
   margin-bottom: 1.49999rem;
@@ -822,7 +822,7 @@ a {
 .typeset .delta + .caption, .typeset .epsilon + .caption, .typeset .zeta + .caption {
   margin-top: 0rem; }
 .typeset blockquote p {
-  border-left: 0.15rem solid #05bf85;
+  border-left: 0.15rem solid #6cc2d1;
   font-style: italic;
   padding-left: 1rem;
   margin-bottom: 1.99999rem;
@@ -1518,7 +1518,7 @@ button,
 
 .button--nav {
   background: none;
-  color: #05bf85;
+  color: #6cc2d1;
   margin-bottom: 0;
   min-height: 4rem;
   min-width: 4rem; }
@@ -1527,7 +1527,7 @@ button,
       display: none; } }
   .button--nav:hover, .button--nav:focus {
     box-shadow: none;
-    color: #008000; }
+    color: #00869e; }
 
 a:focus, a:hover:focus,
 button:focus,
