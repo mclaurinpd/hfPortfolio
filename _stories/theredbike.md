@@ -2,7 +2,6 @@
 layout: post
 title: The Red Bike
 feature_text: Free Bike. Needs A Home.
-indexing: false
 ---
 
 My short story "The Red Bike" was included in the July/August issue of The Broadkill Review.

@@ -2,7 +2,6 @@
 title: Portfolio
 layout: page
 permalink: /portfolio/
-indexing: false
 ---
 
 <main class="main  container">

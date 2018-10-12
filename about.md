@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-indexing: false
 ---
 
 Hi! My name is Hannah Fell and I am the associate editor at Chiropractic Economics and MASSAGE Magazine in Ponte Vedra Beach, Florida.
