@@ -1,2 +1,2 @@
 # hfPortfolio
-A portfolio and blog for my girlfriend.
+A portfolio and blog.
