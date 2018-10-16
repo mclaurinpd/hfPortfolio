@@ -5,15 +5,25 @@
       {% include post-related.html %}
     </section>
 
-  {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
+  {% elsif page.url == "/" %}
     <section class="section  section--description">
-      {% include figure.html image="assets/images/hannah.jpeg" width="100%" alt="Hannah!" %}
+      {% include figure.html image="/assets/images/blueLogo.png" width="100%" alt="hannahfell-logo" %}
       <h3>Hannah Fell</h3>
       <p>
         The Doyle Group <br>
         Associate Editor <br>
         -  Chiropractic Economics <br>
         -  MASSAGE Magazine
+      {{ site.email }}
+      </p>
+      {% include nav-social.html %}
+    </section>
+
+  {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
+    <section class="section  section--description">
+      {% include figure.html image="/assets/images/hannah.jpeg" width="100%" alt="Hannah!" %}
+      <h3>Hannah Fell</h3>
+      <p>
       {{ site.email }}
       </p>
       {% include nav-social.html %}
