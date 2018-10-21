@@ -1,7 +1,9 @@
 ---
 layout: post
 title: The Ultimate Nova Scotia Road Trip Guide
-feature_text: How to Maximize Your Nova Scotia Road Trip 
+feature_text: How to Maximize Your Nova Scotia Road Trip
+excerpt: I just got back from a week-long trip in Canada with my boyfriend, and it was one of the most beautiful places I’ve ever been.
+description: Nova Scotia Road Trip.
 ---
 
 
