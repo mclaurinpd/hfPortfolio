@@ -5,9 +5,9 @@ feature_text: How to Maximize Your Nova Scotia Road Trip
 ---
 
 
-{% include figure.html image="/assets/images/novaScotia/thumb_IMG_Canada_Road.jpg" caption="Canadian Road" width="800" height="600" %}
+{% include figure.html image="/assets/images/novaScotia/thumb_IMG_Canada_Road.jpg" width="800" height="600" %}
 
-## I just got back from a week-long trip in Canada with my boyfriend, and it was one of the most beautiful places I’ve ever been. 
+### I just got back from a week-long trip in Canada with my boyfriend, and it was one of the most beautiful places I’ve ever been. 
 
 Driving through almost-empty roads in the countryside, surrounded by yellow-gold and red-orange trees with craggy hills and clear blue waters is something I definitely never experience in Florida. (I got to wear a hat! And a jacket on this trip!) 
 
@@ -39,7 +39,8 @@ We crossed at Calais, and stayed at [a lovely place in St. Stephen](https://www.
 
 ### Go to Minister’s Island in St. Andrews 
 
-![Nova Scotia Road Trip](/assets/images/novaScotia/thumb_IMG_E0152_mansion2.jpg) 
+{% include figure.html image="/assets/images/novaScotia/thumb_IMG_E0152_mansion2.jpg" caption="Minister's Island" width="800" height="600" %}
+
 Our hosts in St. Stephen recommended [Minister’s Island](https://www.ministersisland.net/) to us, and so on our way through Canada to Nova Scotia, we stopped. They told us that you have to get to Minister’s Island early in the morning because the tide rises and you can’t get off the island. 
 
 They heard a story once where one man wanted to take pictures of the tide coming into the island so he stayed on it longer than he should have stayed. He parked his car on the island, and when the tide rose it took the car with it. People never found the car, but the man taking photos survived. Make sure you get to the island early, and leave when you are supposed to leave.
@@ -70,11 +71,14 @@ Whenever I told people I was going to Nova Scotia, they always told me to go to 
 
 Everyone was right. 
 
-![Nova Scotia Road Trip in Peggy’s Cove](/assets/images/novaScotia/thumb_IMG_0198_Lobster_Roll.jpg)In the summer, you can get Dee Dee’s ice cream, or a lobster roll, which I tried and it was interesting. The lobster roll reminded me of tuna salad but with lobster instead of tuna. There are small shops in old wooden buildings with bright-colored paint in the town, and the lighthouse really is petty. 
+{% include figure.html image="/assets/images/novaScotia/thumb_IMG_0198_Lobster_Roll.jpg" caption="Peggy's Cove" width="800" height="600" %}
+In the summer, you can get Dee Dee’s ice cream, or a lobster roll, which I tried and it was interesting. The lobster roll reminded me of tuna salad but with lobster instead of tuna. There are small shops in old wooden buildings with bright-colored paint in the town, and the lighthouse really is pretty. 
 
 The lighthouse is a crisp white, sitting on top of the large, tan rocks near the water. Some of the rocks are black, and there are several signs telling you not to step on those darker rocks because the waves from the water can rush up to you and knock you off-balance. 
 
-I really liked sitting on the rocks, looking at the water. There was a man in the distance painting his shed a bright red, and people there just seemed to have a deep sense of peace.  ![Nova Scotia Road Trip in Peggy’s Cove](/assets/images/novaScotia/thumb_IMG_0219_Peggys_Cove_LIghthouse.jpg)
+I really liked sitting on the rocks, looking at the water. There was a man in the distance painting his shed a bright red, and people there just seemed to have a deep sense of peace.  
+
+{% include figure.html image="/assets/images/novaScotia/thumb_IMG_0219_Peggys_Cove_LIghthouse.jpg" width="800" height="600" %}
 
 ### Visit Lunenburg
 
@@ -82,11 +86,12 @@ I think visiting [Lunenburg](https://www.novascotia.com/explore/top-25/lunenburg
 
 It was chilly when we went there, and there were little bookstores and shops to walk in and out of casually. It was really nice to browse some of the books written by Canadian authors and flip through a few collections of poems written by Canadian poets. From the few poems I read, I loved how Canadian poets focused so much on nature and the place of Canada itself. 
 
-![Nova Scotia Road Trip in Peggy’s Cove](/assets/images/novaScotia/thumb_IMG_0273_Lunenburg_Food.jpg)We ate at this amazing restaurant with a beautiful view of the harbor. We tried this nice white wine that you can only get in Canada called Tidal Bay, and after we got some maple fudge at a little shop. It was really sweet but good all the same. 
+{% include figure.html image="/assets/images/novaScotia/thumb_IMG_0273_Lunenburg_Food.jpg" width="800" height="600" %}
+We ate at this amazing restaurant with a beautiful view of the harbor. We tried this nice white wine that you can only get in Canada called Tidal Bay, and after we got some maple fudge at a little shop. It was really sweet but good all the same. 
 
 ### Take a Day to Visit a Vineyard (or Two)
 
-![Nova Scotia Road Trip](/assets/images/novaScotia/thumb_IMG_0316_Luckett_Phonebooth.jpg) 
+{% include figure.html image="/assets/images/novaScotia/thumb_IMG_0316_Luckett_Phonebooth.jpg" width="800" height="600" %}
 I was trying to find something fun for us to do in Canada, and I suggested going to a vineyard. We made the trek through these beautiful winding roads and trees until the trees started to look more like vineyards. It’s funny how fast the change happened. 
 
 We went to [Luckett Vineyards,](http://luckettvineyards.com/) and there are actually quite a few vineyards in the area. We got a flight of Nova Scotia wines, and my favorite type, unsurprisingly, was the Tidal Bay. Even if you don’t like wine, it is definitely worth visiting this vineyard. There is a telephone booth in the middle of the vineyard and you can make a free call to anyone in North America. 
@@ -98,7 +103,7 @@ The bartender/wine expert who served us our flight of wines at Luckett Vineyards
 There was one restaurant, and it served fresh lobster. You could pick out the lobster you wanted to eat, which I thought was a little bit vulgar, and the chef would cook it for you. One of my favorite parts of this town was finding smooth rocks to skip on the water. 
 
 ### Stay in Nature
-![Nova Scotia Road Trip](/assets/images/novaScotia/thumb_IMG_0481_st_andrews.jpg) 
+{% include figure.html image="/assets/images/novaScotia/thumb_IMG_0481_st_andrews.jpg" width="800" height="600" %}
 
 We ended our Canadian adventures with a trip to St. Andrews where we stayed in this small cabin in the woods on the water. It was private and quiet. Since I am a bit of an urban child, it was really foreign for me to be somewhere where there really isn’t another person around you. 
 
