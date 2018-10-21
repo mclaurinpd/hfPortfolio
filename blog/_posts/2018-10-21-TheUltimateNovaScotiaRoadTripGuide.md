@@ -40,7 +40,7 @@ We crossed at Calais, and stayed at [a lovely place in St. Stephen](https://www.
 ### Go to Minister’s Island in St. Andrews 
 
 ![Nova Scotia Road Trip](/assets/images/novaScotia/thumb_IMG_E0152_mansion2.jpg) 
-Our hosts in St. Stephen recommended (Minister’s Island)[https://www.ministersisland.net/) to us, and so on our way through Canada to Nova Scotia, we stopped. They told us that you have to get to Minister’s Island early in the morning because the tide rises and you can’t get off the island. 
+Our hosts in St. Stephen recommended [Minister’s Island](https://www.ministersisland.net/) to us, and so on our way through Canada to Nova Scotia, we stopped. They told us that you have to get to Minister’s Island early in the morning because the tide rises and you can’t get off the island. 
 
 They heard a story once where one man wanted to take pictures of the tide coming into the island so he stayed on it longer than he should have stayed. He parked his car on the island, and when the tide rose it took the car with it. People never found the car, but the man taking photos survived. Make sure you get to the island early, and leave when you are supposed to leave.
 
