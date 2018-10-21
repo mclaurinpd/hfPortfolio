@@ -2,6 +2,8 @@
 layout: page
 title: About
 aside: true
+description: About Hannah Fell. Reader. Writer. Runner. Editor for Chiropractic Economics and MASSAGE Magazine.
+author: Hannah Fell
 permalink: /about/
 ---
 

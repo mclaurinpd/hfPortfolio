@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Red Bike
+description: My short story The Red Bike was published in the Broadkill Review.
+author: Hannah Fell
 feature_text: Free Bike. Needs A Home.
 ---
 

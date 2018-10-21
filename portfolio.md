@@ -2,6 +2,8 @@
 title: Portfolio
 layout: blog
 permalink: /portfolio/
+description: This is Hannah Fell's portfolio.
+author: Hannah Fell
 ---
 
 <main class="main  container">
