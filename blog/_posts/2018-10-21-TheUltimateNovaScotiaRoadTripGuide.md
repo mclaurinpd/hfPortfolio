@@ -5,7 +5,7 @@ feature_text: How to Maximize Your Nova Scotia Road Trip
 ---
 
 
-![Nova Scotia Road Trip](/assets/images/novaScotia/thumb_IMG_Canada_Road.jpg)
+{% include figure.html image="/assets/images/novaScotia/thumb_IMG_Canada_Road.jpg" caption="Canadian Road" width="800" height="600" %}
 
 ## I just got back from a week-long trip in Canada with my boyfriend, and it was one of the most beautiful places I’ve ever been. 
 
@@ -19,7 +19,7 @@ Here are a few tips to make sure you get the most out of your Nova Scotia road t
 
 ### Drive up U.S. 1 into Canada
 
- ![Nova Scotia Road Trip](/assets/images/novaScotia/thumb_IMG_E0140_maine_sunset.jpg) 
+{% include figure.html image="/assets/images/novaScotia/thumb_IMG_E0140_maine_sunset.jpg" caption="Sunset in Maine" width="800" height="600" %}
 
 The flight we took landed in Portland, Maine, and at the airport, we got our rental car, which is really key to the road trip. It’s really smarter and more cost-effective to get a rental car, and you don’t have to worry about putting more than 1,200 miles on your personal vehicle. Sure, it’s a bit more expensive up front, but you end up saving money long-term. 
 
