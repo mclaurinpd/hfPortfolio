@@ -25,7 +25,7 @@ author: Hannah Fell
     </ul>
 
    	 <article class="article  article--page  typeset">
-    	<h2>Stories</h2>
+    	<h2>Fiction</h2>
    	 </article>
 
     <ul>
